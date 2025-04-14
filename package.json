@@ -1,0 +1,19 @@
+{
+    "name": "55-grupe-js-intro",
+    "version": "1.0.0",
+    "description": "Labas rytas, Lietuva! Ačiū! Ką tu? Ką vakare?",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+        "index": "node --watch ./index.js",
+        "auto": "node ./auto.js",
+        "car": "node ./js/car.js",
+        
+
+        "test": "echo \"Error: no test specified\" && exit 1"
+        
+    },
+    
+    "keywords": [],
+    "license": "MIT",
+    "author": "Kornelija (https://github.com/kornelyte12)"}
