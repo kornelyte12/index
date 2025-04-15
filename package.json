@@ -5,9 +5,22 @@
     "main": "index.js",
     "type": "module",
     "scripts": {
-        "index": "node --watch ./index.js",
-        "auto": "node ./auto.js",
-        "car": "node ./js/car.js",
+        "index": "node --watch ./index/index.js",
+        "dog": "node --watch ./index/js/Dog.js",
+        "hamster": "node --watch ./index/js/Hamster.js",
+        "Audi": "node --watch ./index/js/Audi.js",
+        "Renault": "node --watch ./index/js/Renault.js",
+        "Wolkswagen": "node --watch ./js/Wolkswagen.js",
+        "automobiliai": "node --watch ./index/automobiliai.js",
+        "shark": "node --watch ./index/js/Shark.js",
+        "dolphin": "node --watch ./index/js/Dolphin.js",
+        "static": "node --watch ./index/js/static.js",
+        "tuna": "node --watch ./index/js/Tuna.js",
+        "fish": "node --watch ./index/js/Fish.js",
+        "pet": "node --watch ./index/js/Pet.js",
+        "auto": "node ./index/auto.js",
+        "animals": "node ./index/animals.js",
+        "car": "node ./index/js/Car.js",
         
 
         "test": "echo \"Error: no test specified\" && exit 1"

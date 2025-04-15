@@ -57,5 +57,5 @@ export class Car {
             // Jei ne – pripilame iki maks. talpos
             this.tank = this.tankMax;
         }
-    }
+    }    
 }
