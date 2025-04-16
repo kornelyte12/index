@@ -1,6 +1,6 @@
-import {automobiliai} from "./automobiliai.js";
+import {Automobiliai} from "./Automobiliai.js";
 
-export class Renault extends automobiliai{
+export class Renault extends Automobiliai{
     constructor(spalva,kuras){
         super(spalva,kuras);
         this.spalva='Raudona';

@@ -1,6 +1,6 @@
-import {automobiliai} from "./automobiliai.js";
+import {Automobiliai} from "./Automobiliai.js";
 
-export class Wolkswagen extends automobiliai{
+export class Wolkswagen extends Automobiliai{
     constructor(spalva,kuras){
         super(spalva,kuras);
         this.spalva="balta";
