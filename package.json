@@ -6,9 +6,7 @@
     "type": "module",
     "scripts": {
         "index": "node --watch ./index.js",
-        "dog": "node --watch ./js/Dog.js",
-        "hamster": "node --watch ./js/Hamster.js",
-      
+      "gyvunai": "node --watch ./js/gyvunai.js",
        
         "planets": "node --watch ./codewarse/planets.js",
         "masinos": "node --watch ./masinos.js",
